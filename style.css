@@ -1,14 +1,14 @@
 :root {
+    --rosa: #ec43a0;
     --preto: #000000;
-    --branco: #fff;
     --azul: #fff;
     --azul-médio: #2f4dd1;
     --amarelo:#cfe80d;
 }
 /*corpo da página*/
 body {
-    color: var(--branco);/*cor da fonte*/
-    background-color: var(--preto);/*cor de fundo*/
+    color: var(--preto);/*cor da fonte*/
+    background-color: var(--rosa);/*cor de fundo*/
     margin: 0px; /* não terá margem padrão*/
 }
 
