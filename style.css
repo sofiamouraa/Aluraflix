@@ -1,9 +1,9 @@
 :root {
     --rosa: #ec43a0;
     --preto: #000000;
-    --azul: #fff;
-    --azul-médio: #2f4dd1;
-    --amarelo:#cfe80d;
+    --verde: hsl(103, 88%, 39%);
+    --rosa: #ec21a9;
+    --verde:#2c9403;
 }
 /*corpo da página*/
 body {
